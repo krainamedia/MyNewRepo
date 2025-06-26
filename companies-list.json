@@ -11,28 +11,6 @@
     }
   },
   {
-    "companyName": "Burnett-Brown",
-    "ticker": "LGAA",
-    "marketCap": "424.0",
-    "industry": "Consumer Discretionary",
-    "currentPrice": 68.3,
-    "intrinsicPrice": {
-      "min": 62.67,
-      "max": 72.12
-    }
-  },
-  {
-    "companyName": "Fuentes, Smith and Frederick",
-    "ticker": "FILI",
-    "marketCap": "276.3",
-    "industry": "Industrials",
-    "currentPrice": 374.44,
-    "intrinsicPrice": {
-      "min": 352.21,
-      "max": 398.54
-    }
-  },
-  {
     "companyName": "Burns Ltd",
     "ticker": "PFTO",
     "marketCap": "151.1",
